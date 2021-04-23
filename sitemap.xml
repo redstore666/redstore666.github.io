@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://b.rsmc.xyz/about/index.html</loc>
+    
+    <lastmod>2021-04-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://b.rsmc.xyz/posts/51713.html</loc>
     
     <lastmod>2021-04-23</lastmod>
@@ -40,13 +47,6 @@
     <loc>https://b.rsmc.xyz/categories/index.html</loc>
     
     <lastmod>2021-01-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://b.rsmc.xyz/about/index.html</loc>
-    
-    <lastmod>2021-01-29</lastmod>
     
   </url>
   
